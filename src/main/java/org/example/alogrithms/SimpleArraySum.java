@@ -1,3 +1,5 @@
+package org.example.alogrithms;
+
 import java.util.List;
 public class SimpleArraySum {
 
